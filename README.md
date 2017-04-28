@@ -2,7 +2,7 @@
 
 charts for numerical arrays in the terminal
 
-![xy usage](./screen.png)
+![xy usage](./xy.png)
 
 
 ## Usage
